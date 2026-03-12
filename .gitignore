@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#passwords and credentials
+.env 
+#any sort of student data
+*.csv
+#It's just compiled junk files your computer generates
+__pycache__/
+
+
